@@ -9,7 +9,8 @@
   0911 | Continue design brainstorm & reading on session storage
   1020 | work on proposal & review sql options
   1116 | installing SQL server2022 & testing out
-  1218 | breaking for lunch
+  1218 | breaking for lunchs
+  1318 | back from lunch, continue experimenting with sql/sql server
 
 ## reference log
   * [shopping cart msft tutorial (.net 4)](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/shopping-cart)

@@ -19,11 +19,13 @@
   * jquery (would be nice for some display features)
   * C#
   * SQL database (mySQL or microsoft SQL, the latter providing advance functionality that I'm not sure integrates with mysql)
+  
 
 ## If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
   * account authentication
   * allow a market employee account to view all orders from users
   * dockerize the application and/or database 
+  * SQL
 
 ## What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
   * docker
