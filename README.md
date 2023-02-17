@@ -8,6 +8,7 @@
   0808 | Initialize project & begin database/general design brainstorming
   0911 | Continue design brainstorm & reading on session storage
   1020 | work on proposal & review sql options
+  1116 | installing SQL server2022 & testing out
 
 
 ## reference log
