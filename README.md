@@ -5,16 +5,18 @@
 
 ## Research and Planning log
   2023/02/17
-  0808 | Initialize project & begin database/general design brainstorming
-  0911 | Continue design brainstorm & reading on session storage
-  1020 | work on proposal, session storage & review sql options
-  1116 | installing SQL server2022 & testing out
-  1218 | breaking for lunchs
-  1318 | back from lunch, continue experimenting with sql/sql server
-  1400 | jquery inquiry 
-  1424 | continuing jquery
-  1510 | wrap up jquery, work on market ideas and finalizing capstone proposal
-  1545 | finalize proposal & continue playing with sql server / db design schemas
+  |time| progress |
+  |:-----:|:--------------------------------------------------------------------|
+  |0808 | Initialize project & begin database/general design brainstorming|
+  |0911 | Continue design brainstorm & reading on session storage|
+  |1020 | work on proposal, session storage & review sql options|
+  |1116 | installing SQL server2022 & testing out|
+  |1218 | breaking for lunchs|
+  |1318 | back from lunch, continue experimenting with sql/sql server|
+  |1400 | jquery inquiry |
+  |1424 | continuing jquery|
+  |1510 | wrap up jquery, work on market ideas and finalizing capstone proposal|
+  |1545 | finalize proposal & continue playing with sql server / db design schemas|
 
 ## reference log
   * [shopping cart msft tutorial (.net 4)](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/shopping-cart)
