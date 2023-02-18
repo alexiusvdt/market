@@ -28,6 +28,7 @@
   |1424 | continuing jquery|
   |1510 | wrap up jquery, work on market ideas and finalizing capstone proposal|
   |1545 | finalize proposal & continue playing with sql server / db design schemas|
+  |1645| eod cleanup and last commits. |
 
 ## reference log
   * [shopping cart msft tutorial (.net 4)](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/shopping-cart)
