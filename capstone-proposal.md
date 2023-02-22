@@ -23,7 +23,7 @@
   
 
 ## If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
-  * account authentication
+  * email verification required before users can access the website
   * make dinner reservations at their in-house restaurant
   * allow a market employee account to view all orders from users and/or query (with sql implementation) the orders/customers data
   * dockerize the application and/or database 

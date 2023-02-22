@@ -35,6 +35,7 @@
   * [shopping carts & zoom on image](https://www.c-sharpcorner.com/article/creating-shopping-cart-application-from-scratch-in-mvc-part2/)
   * this uses sessions (save/store user data, per browser basis) [more here](https://www.tutorialspoint.com/how-to-enable-session-in-chash-asp-net-core)
   * [jquery learnin'](https://www.youtube.com/watch?v=QhQ4m5g2fhA)
+  * [auth through Auth0](https://auth0.com/docs/quickstart/webapp/aspnet-core/interactive)
 
 ## docs reference
   * [sessions overview](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/app-state?view=aspnetcore-7.0)
