@@ -30,6 +30,11 @@
   |1545 | finalize proposal & continue playing with sql server / db design schemas|
   |1645| eod cleanup and last commits. |
 
+  2023/02/24
+  |time| progress |
+  |:-----:|:--------------------------------------------------------------------|
+  |0758 | Begin refreshing c#/db context stuff |
+  
 ## reference log
   * [shopping cart msft tutorial (.net 4)](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/shopping-cart)
   * [data-bound controls/GridView](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms228214(v=vs.100))
