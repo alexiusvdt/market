@@ -12,7 +12,7 @@
 [License](#license)
 
 ## Overview
-* Here be the skeletal outline of my MVC application for a fictitious market. This wonderful store sells their fresh product online as well as in store. They also have an attached restauraunt if you'd rather eat the food fresh.
+
 
 ## Research and Planning log
   2023/02/17
@@ -39,6 +39,7 @@
   |1154| break for lunch|
   |1300| back from lunch, begin new capstone proposal(s)|
   |1400| design react components|
+  |1530| reading into react native|
 
 ## reference log
   * [shopping cart msft tutorial (.net 4)](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/shopping-cart)
