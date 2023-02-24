@@ -36,6 +36,7 @@
   |0758 | Begin refreshing c#/db context stuff |
   |0900| Begin coding, see those commits for progress updates|
   |1100| begin research on tailwind for react, assuming capstone switch will be OK'd |
+  |1154| break for lunch|
 
 ## reference log
   * [shopping cart msft tutorial (.net 4)](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/shopping-cart)
