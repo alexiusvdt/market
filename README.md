@@ -34,7 +34,8 @@
   |time| progress |
   |:-----:|:--------------------------------------------------------------------|
   |0758 | Begin refreshing c#/db context stuff |
-  
+  |0900| Begin coding, see those commits for progress updates|
+
 ## reference log
   * [shopping cart msft tutorial (.net 4)](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/shopping-cart)
   * [data-bound controls/GridView](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms228214(v=vs.100))
@@ -50,6 +51,7 @@
 
 ## Setup/Install Guide
 
+*identity service
 
 ## Known Bugs
 
