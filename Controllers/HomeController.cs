@@ -10,13 +10,11 @@ namespace Market.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly string _apikey;   
         private readonly MarketContext _db;
         private readonly UserManager<ApplicationUser> _userManager;
 
         public HomeController(UserManager<ApplicationUser> userManager, MarketContext db, IConfiguration configuration)
         {
-        _apikey = configuration["TMDB"];
         _userManager = userManager;
         _db = db;
         }
@@ -24,13 +22,8 @@ namespace Market.Controllers
         [HttpGet("/")]
         public IActionResult Index()
         {
-        return View(Movie.GetMovies(_apikey));
+        return View(Product.GetProducts());
         }
-
-        // public IActionResult Index()
-        // {
-        //     return View(Movie.GetMovies(_apikey));
-        // }
 
         [HttpGet("/privacy")]
         public async Task<ActionResult> Privacy()

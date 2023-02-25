@@ -40,6 +40,7 @@
   |1300| back from lunch, begin new capstone proposal(s)|
   |1400| design react components|
   |1530| reading into react native|
+  |1650|wrapup|
 
 ## reference log
   * [shopping cart msft tutorial (.net 4)](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/shopping-cart)
